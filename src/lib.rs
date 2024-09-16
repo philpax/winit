@@ -175,7 +175,7 @@
 //! |64-Bit ARM Redox OS            |`aarch64-unknown-redox`             |Orbital        |
 //! |64-bit x64 macOS               |`x86_64-apple-darwin`               |AppKit         |
 //! |64-bit ARM macOS               |`aarch64-apple-darwin`              |AppKit         |
-//! |32-bit WASM web browser        |`wasm32-unknown-unknown`            |DOM            |
+//! |32-bit Wasm Web browser        |`wasm32-unknown-unknown`            |`wasm-bindgen` |
 //!
 //! ## Tier 2 Targets
 //!
